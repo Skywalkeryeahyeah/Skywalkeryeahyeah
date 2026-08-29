@@ -6,11 +6,6 @@
 
 Building intelligent systems from **algorithms and models** to **real-world applications**.
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Skywalkeryeahyeah&label=Profile%20Views&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Skywalkeryeahyeah?label=Followers&style=flat-square" />
-
 </div>
 
 ---
