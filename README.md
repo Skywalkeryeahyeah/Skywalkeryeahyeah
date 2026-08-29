@@ -16,29 +16,6 @@ I am interested in the intersection of **Artificial Intelligence, Data Science, 
 
 My work and learning focus on building complete intelligent systems — from model design and data processing to backend services, databases, and user-facing applications.
 
-```text
-AI & Intelligent Systems
-├── Machine Learning
-├── Deep Learning
-├── Graph Neural Networks
-├── Large Language Models
-└── AI Agents
-
-Software Engineering
-├── Backend Development
-├── Full-Stack Development
-├── RESTful APIs
-├── Distributed Systems
-└── Database Systems
-
-Data & Scientific Computing
-├── SQL / MySQL
-├── Data Analysis
-├── Tableau
-├── Power BI
-└── MATLAB
-```
-
 ---
 
 # ⚡ Tech Stack
@@ -202,63 +179,6 @@ https://github.com/Skywalkeryeahyeah/Paper-review-agent
 </td>
 </tr>
 </table>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Skywalkeryeahyeah&show_icons=true&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skywalkeryeahyeah&layout=compact&hide_border=true&langs_count=8" />
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Skywalkeryeahyeah&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Skywalkeryeahyeah/Skywalkeryeahyeah/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-# 💡 Currently Exploring
-
-```python
-current_focus = {
-    "AI": [
-        "Large Language Models",
-        "AI Agents",
-        "Graph Neural Networks",
-        "Deep Learning"
-    ],
-    "Engineering": [
-        "Full-Stack AI Applications",
-        "Backend Architecture",
-        "Database Systems"
-    ],
-    "Data": [
-        "SQL",
-        "Data Visualization",
-        "Scientific Computing"
-    ]
-}
-```
 
 ---
 
