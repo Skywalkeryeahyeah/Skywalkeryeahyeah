@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Skywalker&fontSize=70&animation=fadeIn&fontAlignY=38&desc=NEURAL%20SYSTEMS%20%2F%2F%20AI%20%2F%2F%20FULL-STACK&descAlignY=60" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Skywalker&fontSize=70&animation=fadeIn&fontAlignY=38&desc=TECH%20VANGUARD%20OF%20THE%20NEW%20ERA&descAlignY=60" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+NEURAL+SYSTEMS...;%3E+DEEP+LEARNING+%2F%2F+GNN+%2F%2F+AI+AGENTS;%3E+BUILDING+THE+FUTURE." />
 
