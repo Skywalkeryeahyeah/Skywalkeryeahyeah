@@ -14,8 +14,6 @@
 <img src="https://img.shields.io/badge/Agent-00F0FF?style=for-the-badge&logo=tableau&logoColor=black"/>
 <img src="https://img.shields.io/badge/Cyperpunk2077-FCEE09?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer" width="80%"/>
 
 ### `WAKE THE CODE.`
