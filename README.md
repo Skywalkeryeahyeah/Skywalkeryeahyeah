@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,flask,react,vue,js,ts,mysql,redis,docker,git,github,linux,vscode&perline=9" />
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/AI-FF5F1F?style=for-the-badge&logo=mathworks&logoColor=black"/>
 <img src="https://img.shields.io/badge/Agent-00F0FF?style=for-the-badge&logo=tableau&logoColor=black"/>
