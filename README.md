@@ -22,31 +22,6 @@
 
 <br/><br/>
 
-## 🧬 CURRENT SIGNAL
-
-```text
-> MACHINE LEARNING
-> DEEP LEARNING
-> GRAPH NEURAL NETWORKS
-> LARGE LANGUAGE MODELS
-> AI AGENTS
-> FULL-STACK SYSTEMS
-```
-
-## 📡 SYSTEM STATUS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Skywalkeryeahyeah&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FCEE09&icon_color=00F0FF&text_color=FFFFFF"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skywalkeryeahyeah&layout=compact&hide_border=true&bg_color=0D1117&title_color=FCEE09&text_color=FFFFFF"/>
-
-<br/><br/>
-
-```text
-[ STATUS ] ONLINE
-[ MODE   ] BUILDING
-[ TARGET ] THE FUTURE
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer" width="100%"/>
