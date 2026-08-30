@@ -8,7 +8,7 @@
 
 ## ⚡ TECH STACK
 
-<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,flask,react,vue<br/>js,ts,mysql,redis,docker,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,flask,react,vue,js,ts,mysql,redis,docker,git,github,linux,vscode" />
 
 <br/><br/>
 
