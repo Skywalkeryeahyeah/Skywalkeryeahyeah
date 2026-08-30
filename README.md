@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&center=true&vCenter=true&width=850&lines=%3E+INITIALIZING+NEURAL+SYSTEMS...;%3E+DEEP+LEARNING+%2F%2F+GNN+%2F%2F+AI+AGENTS;%3E+BUILDING+THE+FUTURE." />
 
-<br/>
-
-`AI`　`NEURAL NETWORKS`　`Agent`　`FULL-STACK` `Cyperpunk 2077`
-
 <br/><br/>
 
 ## ⚡ TECH STACK
@@ -21,18 +17,6 @@
 <img src="https://img.shields.io/badge/Power_BI-FCEE09?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 <br/><br/>
-
-
-
-<br/>
-
-
-<br/>
-
-
-<br/><br/>
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer" width="100%"/>
 
