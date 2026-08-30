@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Skywalker&fontSize=70&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=Hi%2C%20I%27m&descSize=20&descAlign=39&descAlignY=31" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Skywalker&fontSize=70&animation=fadeIn&fontAlign=50&fontAlignY=55&desc=Hi%2C%20I%27m&descSize=20&descAlign=30&descAlignY=31" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1200&center=true&vCenter=true&width=850&lines=%3E+TECH+VANGUARD+OF+THE+NEW+ERA;%3E+CYPERPUNK+2077;%3E+BUILDING+THE+FUTURE." />
 
