@@ -6,6 +6,8 @@
 
 <br/>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&section=footer" width="100%"/>
+
 <img src="https://skillicons.dev/icons?i=python,java,pytorch,tensorflow,sklearn,fastapi,flask,react,vue,js,ts,mysql,redis,docker,git,github,linux,vscode&perline=9" />
 
 <br/><br/>
